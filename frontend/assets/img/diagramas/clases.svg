@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1330 900" width="1330" height="900" font-family="Arial, Helvetica, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="500" y="20" width="210" height="142" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="500" y="20" width="210" height="30" fill="#24601f"/><text x="605.0" y="40" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Usuario</text><text x="510" y="72" font-size="13" fill="#1b2a1f">- id</text><text x="510" y="92" font-size="13" fill="#1b2a1f">- nombre</text><text x="510" y="112" font-size="13" fill="#1b2a1f">- correo</text><text x="510" y="132" font-size="13" fill="#1b2a1f">- clave</text><text x="510" y="152" font-size="13" fill="#1b2a1f">- rol</text>
+<rect x="40" y="220" width="200" height="62" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="40" y="220" width="200" height="30" fill="#24601f"/><text x="140.0" y="240" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Administrador</text><text x="50" y="272" font-size="13" fill="#1b2a1f">(hereda de Usuario)</text>
+<rect x="330" y="220" width="210" height="82" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="330" y="220" width="210" height="30" fill="#24601f"/><text x="435.0" y="240" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Cliente</text><text x="340" y="272" font-size="13" fill="#1b2a1f">- telefono</text><text x="340" y="292" font-size="13" fill="#1b2a1f">- direccion</text>
+<rect x="820" y="220" width="210" height="82" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="820" y="220" width="210" height="30" fill="#24601f"/><text x="925.0" y="240" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Empleado</text><text x="830" y="272" font-size="13" fill="#1b2a1f">- turno</text><text x="830" y="292" font-size="13" fill="#1b2a1f">- cargo</text>
+<rect x="330" y="400" width="210" height="142" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="330" y="400" width="210" height="30" fill="#24601f"/><text x="435.0" y="420" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Mascota</text><text x="340" y="452" font-size="13" fill="#1b2a1f">- nombre</text><text x="340" y="472" font-size="13" fill="#1b2a1f">- especie</text><text x="340" y="492" font-size="13" fill="#1b2a1f">- raza</text><text x="340" y="512" font-size="13" fill="#1b2a1f">- edad</text><text x="340" y="532" font-size="13" fill="#1b2a1f">- alergias</text>
+<rect x="640" y="400" width="210" height="62" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="640" y="400" width="210" height="30" fill="#24601f"/><text x="745.0" y="420" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Veterinario</text><text x="650" y="452" font-size="13" fill="#1b2a1f">- especialidad</text>
+<rect x="880" y="400" width="210" height="62" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="880" y="400" width="210" height="30" fill="#24601f"/><text x="985.0" y="420" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Recepcionista</text><text x="890" y="452" font-size="13" fill="#1b2a1f">- caja</text>
+<rect x="1110" y="400" width="200" height="62" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="1110" y="400" width="200" height="30" fill="#24601f"/><text x="1210.0" y="420" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Estilista</text><text x="1120" y="452" font-size="13" fill="#1b2a1f">- especialidad</text>
+<rect x="480" y="610" width="230" height="122" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="480" y="610" width="230" height="30" fill="#24601f"/><text x="595.0" y="630" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Cita</text><text x="490" y="662" font-size="13" fill="#1b2a1f">- fecha</text><text x="490" y="682" font-size="13" fill="#1b2a1f">- hora</text><text x="490" y="702" font-size="13" fill="#1b2a1f">- estado</text><text x="490" y="722" font-size="13" fill="#1b2a1f">- motivo</text>
+<rect x="480" y="775" width="230" height="82" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="480" y="775" width="230" height="30" fill="#24601f"/><text x="595.0" y="795" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Estetica</text><text x="490" y="827" font-size="13" fill="#1b2a1f">- observaciones</text><text x="490" y="847" font-size="13" fill="#1b2a1f">- estado</text>
+<rect x="110" y="775" width="220" height="102" fill="#f6fbf2" stroke="#24601f" stroke-width="2"/><rect x="110" y="775" width="220" height="30" fill="#24601f"/><text x="220.0" y="795" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">Servicio</text><text x="120" y="827" font-size="13" fill="#1b2a1f">- nombre</text><text x="120" y="847" font-size="13" fill="#1b2a1f">- precio</text><text x="120" y="867" font-size="13" fill="#1b2a1f">- promocion</text>
+<path d="M605.0,162 L595.0,180 L615.0,180 Z" fill="#fff" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M605.0,180 V185" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M140,185 H925" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M140,185 V220" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M435,185 V220" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M925,185 V220" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M925,302 L915,320 L935,320 Z" fill="#fff" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M925,320 V355" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M745,355 H1210" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M745,355 V400" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M985,355 V400" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M1210,355 V400" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<path d="M435,302 V400" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="396.0" y="338" width="78" height="18" fill="#fff"/><text x="435" y="352" font-size="12" text-anchor="middle" fill="#1b2a1f">posee 1..*</text>
+<path d="M435,542 V655 H480" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="396.0" y="578" width="78" height="18" fill="#fff"/><text x="435" y="592" font-size="12" text-anchor="middle" fill="#1b2a1f">tiene 1..*</text>
+<path d="M330,265 H285 V690 H480" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="235.5" y="468" width="99" height="18" fill="#fff"/><text x="285" y="482" font-size="12" text-anchor="middle" fill="#1b2a1f">solicita 1..*</text>
+<path d="M745,462 V650 H710" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="699.0" y="548" width="92" height="18" fill="#fff"/><text x="745" y="562" font-size="12" text-anchor="middle" fill="#1b2a1f">atiende 1..*</text>
+<path d="M985,462 V700 H710" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="935.5" y="588" width="99" height="18" fill="#fff"/><text x="985" y="602" font-size="12" text-anchor="middle" fill="#1b2a1f">registra 1..*</text>
+<path d="M595,732 V775" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="552.5" y="745" width="85" height="18" fill="#fff"/><text x="595" y="759" font-size="12" text-anchor="middle" fill="#1b2a1f">genera 1..1</text>
+<path d="M1210,462 V830 H710" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="1164.0" y="638" width="92" height="18" fill="#fff"/><text x="1210" y="652" font-size="12" text-anchor="middle" fill="#1b2a1f">realiza 1..*</text>
+<path d="M330,830 H480" fill="none" stroke="#1b2a1f" stroke-width="1.6"/>
+<rect x="359.0" y="810" width="92" height="18" fill="#fff"/><text x="405" y="824" font-size="12" text-anchor="middle" fill="#1b2a1f">incluye N..M</text>
+</svg>
